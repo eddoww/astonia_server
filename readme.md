@@ -1,3 +1,6 @@
+Kept for legacy reasons for now. Any possible future development will happen
+at [AstoniaCommunity](https://github.com/AstoniaCommunity/astonia_community_server3).
+
 To run under Ubuntu 22.04.4 LTS (tested and working as of 2024.06.27)
 
 ```
